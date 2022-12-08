@@ -1,0 +1,37 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(107.01deg, #c800fa -0.57%, #0082fa 100%);
+}
+
+.center_page {
+  background: rgba(255, 255, 255, 0.19);
+  border-radius: 7px;
+  margin: 100px auto;
+  padding: 60px;
+  text-align: center;
+  width: 20%;
+  color: white;
+}
+#display {
+  width: 100%;
+  padding-left: 10px;
+  font-size: large;
+  height: 60px;
+  border: none;
+  margin: 30px auto;
+  border-radius: 12px;
+}
+.button_all {
+  border-radius: 50%;
+  border: none;
+  height: 50px;
+  width: 50px;
+  margin: 2%;
+}
